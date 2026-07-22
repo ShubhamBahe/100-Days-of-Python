@@ -36,7 +36,7 @@ This repository documents my journey of learning Python by building one project 
 | Day | Project             | Status         |
 | --- | ------------------- | -------------- |
 | 01  | Calculator          | ✅ Completed   |
-| 02  | Guess The Number    | 🚧 In Progress |
+| 02  | Guess The Number    | ✅ Completed |
 | 03  | Password Generator  | ⏳ Coming Soon |
 | 04  | Rock Paper Scissors | ⏳ Coming Soon |
 
