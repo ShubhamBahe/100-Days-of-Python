@@ -37,8 +37,8 @@ This repository documents my journey of learning Python by building one project 
 | --- | ------------------- | -------------- |
 | 01  | Calculator          | ✅ Completed   |
 | 02  | Guess The Number    | ✅ Completed |
-| 03  | Password Generator  | ⏳ Coming Soon |
-| 04  | Rock Paper Scissors | ⏳ Coming Soon |
+| 03  | Password Generator  | ✅ Completed |
+| 04  | Rock Paper Scissors | ✅ Completed |
 
 ---
 
