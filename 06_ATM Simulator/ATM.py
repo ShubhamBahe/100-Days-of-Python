@@ -20,6 +20,7 @@ while(attempt < 3):
   user = int(input("Enter your Acc No. :"))
 
   if user in BANK_USER :
+    
     password = input("Enter Password. :")
 
     if password == (BANK_USER[user]["password"]):
@@ -88,7 +89,3 @@ while(attempt < 3):
 else : 
   print("Details Not Found")
   attempt += 1 
-
-if attempt == 3 :
-  print("Too many attempt: Account Locked")
-
